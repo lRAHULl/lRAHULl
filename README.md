@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: **rahulpadmaraju16@gmail.com**
 
-- ⚡️ Fun Fact: **I am a seasoned BJJ athlete**
+- ❤️ Fun Fact: **I Love Cats** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
