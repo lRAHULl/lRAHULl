@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <br>
 
  <img
-  width="355"
+  width="400"
   align="right"
   src="https://raw.githubusercontent.com/lrahull/lrahull/main/coding.gif"
 />
