@@ -35,6 +35,8 @@ Here are some ideas to get you started:
 
 - ❤️ Fun Fact: **I Love Cats** <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30">
 
+- 👨‍💻 Certified: [CKA](https://training.linuxfoundation.org/certification/certified-kubernetes-administrator-cka/), [CKAD](https://training.linuxfoundation.org/certification/certified-kubernetes-application-developer-ckad/), [AWS CSA](https://aws.amazon.com/certification/certified-solutions-architect-associate/), [AWS CCP](https://aws.amazon.com/certification/certified-cloud-practitioner/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/lrahull" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lrahull" height="30" width="40" /></a>
